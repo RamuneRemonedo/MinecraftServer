@@ -1,7 +1,5 @@
 FROM debian:bullseye AS builder
 
-LABEL maintainer="RamuneRemonedo <tsuji.riya@gmail.com>"
-
 RUN apt update && apt-get install jq wget -y
 
 ADD ./download-waterfall.sh ./
