@@ -2,6 +2,7 @@
 
 ## Images
 - **[images/waterfall](images/waterfall):** ghcr.io/team-ntra/waterfall
+- **[images/folia](images/velocity):** ghcr.io/team-ntra/folia
 - **[images/paper](images/paper):** ghcr.io/team-ntra/paper
 - **[images/folia](images/folia):** ghcr.io/team-ntra/folia
 
