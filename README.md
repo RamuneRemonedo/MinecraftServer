@@ -1,10 +1,10 @@
 # MinecraftServer
 
 ## Images
-- **[images/waterfall](images/waterfall):** ghcr.io/team-ntra/waterfall
-- **[images/folia](images/velocity):** ghcr.io/team-ntra/folia
-- **[images/paper](images/paper):** ghcr.io/team-ntra/paper
-- **[images/folia](images/folia):** ghcr.io/team-ntra/folia
+- **[images/waterfall](images/waterfall):** ghcr.io/ramuneremonedo/waterfall
+- **[images/velocity](images/velocity):** ghcr.io/ramuneremonedo/velocity
+- **[images/paper](images/paper):** ghcr.io/ramuneremonedo/paper
+- **[images/folia](images/folia):** ghcr.io/ramuneremonedo/folia
 
 
 ## License
